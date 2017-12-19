@@ -1,27 +1,34 @@
-# When should you use redux?
+## When should you use Redux?
 
-# Can you use redux in other libraries and frameworks?
 
-# What does React-Redux do?
+## Can you use the Redux pattern with other libraries and frameworks?
 
-# What does Object.assign() have to do with redux?
 
-# What does every action object you push into Redux have to have?
+## What does the React-Redux library do?
 
-# What is an Action Creator?
 
-# The reducer function takes two parameters what are they?
+## What does every action object you push into the reducer have to have?
 
-# What do you use inside the reducer function to check the types of the actions which are being passed in?
 
-# What do you need to import into your Index.js to make Redux work in your application?
+## When using Redux with React, what do you need to do with `index.js`?
 
-# What is the provider?
 
-# What do you need to import into and export from your store.js?
+## How do you setup the "store" for Redux?
 
-# What do we put into our reducer.js file?
 
-# How does the provider, store, and reducer all work together?
+## What is an Action Creator?
 
-# What do we need to import into your component to use redux?
+
+## How do you setup a reducer?
+
+
+## What do we need to do to connect individual React components to Redux?
+
+
+## How do the provider, store, and reducer all work together?
+
+
+## Why is Object.assign() important to redux?
+
+
+## What do you use inside the reducer function to check the types of the actions which are being passed in?
